@@ -13,8 +13,11 @@ https://drive.google.com/file/d/1Zulsi8-D1THflIepkJNi1Ee47Azk738y/view?usp=shari
 
   ![image](https://user-images.githubusercontent.com/89301804/136843421-4efcaf0b-2883-482a-abf9-c34ef8708757.png)
 - Utilize os botões de Drill Up e Drill Down nos gráficos "Nota média por região" e "Histograma por disciplina" para acessar a hierarquia de dados:
+
   ![image](https://user-images.githubusercontent.com/89301804/136844006-122abe7f-515d-4b73-9f1c-ac84191974d6.png)
 - Na parte inferir central é possível avançar para o príximo painel:
+
   ![image](https://user-images.githubusercontent.com/89301804/136844166-fdc0125a-c89a-4716-bd7c-f51445aadfd3.png)
 - Os gráficos da primeira página são interativos, basta clicar nas barras, linhas ou pontos do mapa para que o filtro seja aplicado:
+
   ![image](https://user-images.githubusercontent.com/89301804/136844384-44e450b4-6de0-4a11-afe1-26270079d38a.png)
