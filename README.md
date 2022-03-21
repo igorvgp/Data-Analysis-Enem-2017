@@ -3,10 +3,8 @@
 
 
 ## Link para visualizar o relatório Power BI:
-https://app.powerbi.com/view?r=eyJrIjoiYWQzYWZkZDktNzMyNC00MjZmLWFmYzItNTY5N2Q1NzRkM2E5IiwidCI6ImFiMjJlMzM2LTAxNTEtNDE4NS1iMjBiLWMxNjVmMzVhZTRkNCJ9&pageName=ReportSection
+https://app.powerbi.com/view?r=eyJrIjoiOTZhMjdjM2ItN2NhMC00YTYyLWE5YWUtNTZmYzk3ZjcwYWE1IiwidCI6IjI0MmM0MjA5LWM5NzgtNDA4Ni1hNzhiLTFkMDdlZmVkYWY5NCJ9
 
-## Link para download do arquivo .pbix
-https://drive.google.com/file/d/1Zulsi8-D1THflIepkJNi1Ee47Azk738y/view?usp=sharing
 
 ## Manual de uso do dasbhoard:
 - Utilize o filtro no canto superior esquerdo para filtrar por região, estado e cidade, conforme a imagem:
@@ -15,9 +13,7 @@ https://drive.google.com/file/d/1Zulsi8-D1THflIepkJNi1Ee47Azk738y/view?usp=shari
 - Utilize os botões de Drill Up e Drill Down nos gráficos "Nota média por região" e "Histograma por disciplina" para acessar a hierarquia de dados:
 
   ![image](https://user-images.githubusercontent.com/89301804/136844006-122abe7f-515d-4b73-9f1c-ac84191974d6.png)
-- Na parte inferir central é possível avançar para o príximo painel:
 
-  ![image](https://user-images.githubusercontent.com/89301804/136844166-fdc0125a-c89a-4716-bd7c-f51445aadfd3.png)
-- Os gráficos da primeira página são interativos, basta clicar nas barras, linhas ou pontos do mapa para que o filtro seja aplicado:
+- Os gráficos são interativos, basta clicar nas barras, linhas ou pontos do mapa para que o filtro seja aplicado:
 
   ![image](https://user-images.githubusercontent.com/89301804/136844384-44e450b4-6de0-4a11-afe1-26270079d38a.png)
